@@ -1,12 +1,3 @@
-<!--
-TARGET: GitHub. New public repo under github.com/mohsin974 (account-level name, do not change), e.g. validaruc-python
-PROMO RULE (1 line): GitHub repos have no promo rules; the SDK must be REAL and genuinely useful; awesome-list PRs must match list scope (maintainer decides).
-BRAND: ValidaRUC (no personal name)
-STATUS: DRAFT. Needs Mohsin's approval
-LEGAL: TAL CUAL as-is · NOT SUNAT · no affiliation · no revenue claims · no fake testimonials · no inflated numbers
-NOTE: publish the actual SDK code (thin requests wrapper + checksum + error handling) in the repo; this README is the draft. Suggested topics: ruc sunat peru rapidapi facturacion-electronica
--->
-
 # validaruc-python
 
 Cliente Python mínimo para **ValidaRUC**: validación de RUC peruano sobre el Padrón Reducido de la SUNAT (dataset público, actualizado a diario).
